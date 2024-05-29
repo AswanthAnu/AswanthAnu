@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswanthanu&label=Profile%20views&color=0e75b6&style=flat" alt="aswanthanu" /> </p>
 
-- 🔭 I’m currently working on **Sentiment analysis of reddit users**
+- 🔭 I’m currently working on **Emotion detection using CNN**
 
-- 🌱 I’m currently learning **Natural Language processing**
+- 🌱 I’m currently learning **Different CNN techniques **
 
 - 👨‍💻 All of my projects are available at [https://github.com/AswanthAnu/](https://github.com/AswanthAnu/)
 
