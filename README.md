@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Emotion detection using CNN**
 
-- 🌱 I’m currently learning **Different CNN techniques **
+- 🌱 I’m currently learning **Different CNN techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AswanthAnu/](https://github.com/AswanthAnu/)
 
