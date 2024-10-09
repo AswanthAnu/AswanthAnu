@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Aswanth M</h1>
+<h1 align="center">Hi 👋, I'm Aswanth Manoharan</h1>
 <h3 align="center">Data science enthusiast with a curiosity for exploring data and using insights to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
